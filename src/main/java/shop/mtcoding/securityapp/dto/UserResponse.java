@@ -6,7 +6,7 @@ import shop.mtcoding.securityapp.core.util.MyDateUtils;
 import shop.mtcoding.securityapp.model.User;
 
 public class UserResponse {
-    
+
     @Getter @Setter
     public static class JoinDto {
         private Long id;
